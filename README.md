@@ -33,7 +33,7 @@ Options:
                                             1 = 20 ports
                                             2 = 80 ports
                                             3 = 150 ports
-  -p, --pcap <desired_filename.pcap>       Save live captured packets into a PCAP file
+  -p, --pcap <desired_filename.pcap>       Save live captured packets into a PCAP file (only works during live detection)
   -s, --save <desired_filename>      Save detection alerts to a text file (Appends)
   -h, --help                         Show this help message and exit
 ```
@@ -77,4 +77,4 @@ Once approved, you can help by:
 
 ## Contacts :point_down:
 
-[Instagram](https://instagram.com/harshs0ni__) [Twitter](https://twitter.com/harshs0ni__) [Github](https://github.com/harshs0ni)
+[Instagram](https://instagram.com/harshs0ni__) [Twitter](https://twitter.com/harshs0ni__) [Github](https://github.com/harshs0ni) [Medium](https://harshs0n1.medium.com)
